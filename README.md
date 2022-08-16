@@ -3,7 +3,7 @@
 This repository contains projects and scripts created along past years.
 
 # Extract stock patterns from chart.
-This software gives posibility for evaluating stock chart figures, has four embeded charts: candles, lines, MACD, and volumes of traded stocks. On top of candle chart draws to simple moving avarges 200 and 50.
+This software gives posibility for evaluating stock chart figures, has four embeded charts: candles, lines, MACD, and volumes of traded stocks. On top of candle chart draws to simple moving avarges 200 and 50. Windows supported version.
 
 Functionality:
 1. Possibility to draw support and resistance lines. With left button of the mouse mark start and end point for the line.
