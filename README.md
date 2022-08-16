@@ -20,7 +20,12 @@ Functionality:
 Program was developed driven buy personal interest for creating DataBase for training Deep Learning model.
 
 Main window
+
 ![Main window](https://user-images.githubusercontent.com/58216241/184958997-2491c43c-1c81-4632-bfb4-d5369230efb2.PNG)
+
+With support and resistabce lines drawed
+
+![with support and resistance lines](https://user-images.githubusercontent.com/58216241/184969281-c6bdf85b-2557-4288-b784-d000d4956a45.png)
 
 Saved PNG file
 
